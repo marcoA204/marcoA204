@@ -11,7 +11,7 @@
 
 ## 💡 Sobre mim
 
-Atualmente, esto desenvolvendo minhas habilidades em **Análise de dados**. Tenho experiência com linguagens como **Python**, **Java**, **C**, **JavaScript** e **SQL**. Busco sempre aprender algo novo e compartilhar conhecimento com a comunidade.
+Atualmente, estou desenvolvendo minhas habilidades em **Análise de dados**. Tenho experiência com linguagens como **Python**, **Java**, **C**, **JavaScript** e **SQL**. Busco sempre aprender algo novo e compartilhar conhecimento com a comunidade.
 
 Sou curioso, colaborativo tenho bastante diciplina e dedicação.
 
